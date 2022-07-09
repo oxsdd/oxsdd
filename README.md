@@ -1,6 +1,12 @@
 ## Welcome to Oxford Software Design & Development
 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+</div>
+
+
 <!--
 **oxsdd/oxsdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
