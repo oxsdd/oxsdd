@@ -20,8 +20,6 @@
        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" title="HTML5" 
        height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Bash" title="Bash" 
-       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Vert.x" 
       title="Vert.x (image credit: Julien Knebel, CC BY-SA 4.0, via Wikimedia Commons"
        height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Vert.x_Logo.svg">
